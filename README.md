@@ -1,2 +1,2 @@
 # all-model
-creare vgg, resnet, u-net
+creare vgg, resnet, u-net, cifar10
