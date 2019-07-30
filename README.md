@@ -1,6 +1,6 @@
-### all-model
-creare vgg, resnet, u-net, cifar10
+## all-model
 
+creare vgg, resnet, u-net, cifar10
 
 main directory
 
